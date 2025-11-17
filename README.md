@@ -168,7 +168,6 @@ hoe doe ik de img animatie 1e sectie
   - intersection observer
   - header wordt div
   - video autoplay
-- ...
 
 </details>
 
@@ -182,7 +181,20 @@ hoe doe ik de img animatie 1e sectie
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-work in progress
+  <img src="/readme-images/wacg.png" width="375x" alt= "wacg test">
+  <img src="/readme-images/w2.png" width="375x" alt= "wacg test">
+  <img src="/readme-images/w3.png" width="375x" alt= "wacg test">
+  <img src="/readme-images/w4.png" width="375x" alt= "wacg test">
+  <img src="/readme-images/w5.png" width="375x" alt= "wacg test">
+
+
+  Lijst met je bevindingen die in de test naar voren kwamen:
+  - duidelijke headings toegevoegd waar screenreader makkelijk doorheen kan tabben
+  - list toegevoegd waar het moet
+  - alt tekst toegevoegd aan images
+  - buttons hebben focus states maar niet alle linkjes, en ook geen visited state
+  - geen autoplay meer en video kan gepauzeerd worden
+  - dark mode is toegevoegd
 
 </details>
 
@@ -218,6 +230,7 @@ lettertype in mn select aanpassen
 
   - pagina 2 html beginnen
   - grid van hero section
+  - carousel scroll buttons
 
 </details>
 
@@ -231,19 +244,42 @@ lettertype in mn select aanpassen
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/s25at13.36.15.png" width="375px" alt="website uitkomsten">
+   <img src="readme-images/s25at13.36.35.png" width="375px" alt="website uitkomsten">
+    <img src="readme-images/s25at13.36.56.png" width="375px" alt="website uitkomsten">
+     <img src="readme-images/s25at13.37.04.png" width="375px" alt="website uitkomsten">
+      <img src="readme-images/s25at13.37.22.png" width="375px" alt="website uitkomsten">
+       <img src="readme-images/s25at13.37.39.png" width="375px" alt="website uitkomsten">
+       <img src="readme-images/s25at13.37.51.png" width="375px" alt="website uitkomsten">
+         <img src="readme-images/s25at13.38.27.png" width="375px" alt="website uitkomsten">
+             <img src="readme-images/s25at13.38.03.png" width="375px" alt="website uitkomsten">
+                <img src="readme-images/s25at13.36.15.png" width="375px" alt="website uitkomsten">
+                   <img src="readme-images/s25at13.38.42.png" width="375px" alt="website uitkomsten">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/s25at13.36.35.png" width="375px" alt="top">
+  ik ben voor mijn gevoel veel beter geworden met grid layouts maken. hier bijvoorbeeld de li en de items. tijdens het reponsive maken was dit ook heel makkelijk gegaan dankzij de grid
+
+   <img src="readme-images/s25at13.36.15.png" width="375px" alt="top">
+
+   intersection observer was iets heel nieuws voor mij dus dat ging goed met de header en heb ik ook veel van geleerd
+
+   verder heb ik veel javascript geleerd dmv de video autoplay, tab sectie en ook toegankelijke html maken
 
 
   ### Dit was lastig/Is niet gelukt:
   Korte omschrijving met plaatjes
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/moeilijk.png" width="375px" alt="bummer">
+
+  dit is de tweede pagina van de officiele website, mij was het niet gelukt om de images een soort van tab sectie te maken. dus als je klikt op de image dat die dan ook automatisch scrollt naar die image. dit was heel lastig voor mij
+
+   <img src="readme-images/s25at13.37.22.png" width="375px" alt="bummer">
+  het was mij niet gelukt om scroll buttons toe te voegen aan mijn ul carousel
+
 </details>
 
 
@@ -260,7 +296,7 @@ lettertype in mn select aanpassen
   Nb. Vermeld de bronnen ook in je code.
 
   1. https://developer.mozilla.org/en-US/docs/Web/CSS
-  2. https://chatgpt.com/ verschillende prompts voor het verbeteren van code 
+  2. https://chatgpt.com/ verschillende prompts voor het verbeteren enbegrijpen van code 
   3. https://uxwing.com/x-social-media-black-icon/
   4. https://uxwing.com/black-instagram-icon/
   5. https://www.racerworldwide.net/?srsltid=AfmBOoqxoiV-sHi5mpR3417ypcRSzhkR2m4ptz1qmCSKuOipmHaIYTKg
@@ -271,5 +307,10 @@ lettertype in mn select aanpassen
   10. https://www.w3schools.com/tags/ref_pxtoemconversion.asp
   11. https://codepen.io/shooft/pen/MYKjaXd
   12. https://codepen.io/vrsh/pen/myVWJJL?editors=0010
+  13. student assistenten julian, viresh en iris geholpen
+  14. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Selectors/:checked 
+  15. https://css-tricks.com/how-to-create-a-skip-to-content-link/
+  16. https://codepen.io/shooft/pen/MYKjaXd
+  17. https://codepen.io/melissa181/pen/qEZbNBM 
 
 </details>
